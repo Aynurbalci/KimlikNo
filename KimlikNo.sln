@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimlikNo", "KimlikNo\KimlikNo.csproj", "{29938D12-8E40-486B-A413-DE7012780EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimliknoString", "kimliknoString\kimliknoString.csproj", "{B0992829-6B2A-44E1-A5F2-70E94CA8389C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29938D12-8E40-486B-A413-DE7012780EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29938D12-8E40-486B-A413-DE7012780EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29938D12-8E40-486B-A413-DE7012780EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29938D12-8E40-486B-A413-DE7012780EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0992829-6B2A-44E1-A5F2-70E94CA8389C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0992829-6B2A-44E1-A5F2-70E94CA8389C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0992829-6B2A-44E1-A5F2-70E94CA8389C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0992829-6B2A-44E1-A5F2-70E94CA8389C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531D1807-1C0F-4D95-9CF2-5B2ACFF26697}
+	EndGlobalSection
+EndGlobal
